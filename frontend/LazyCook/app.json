@@ -1,0 +1,29 @@
+{
+  "expo": {
+    "name": "your-app-name",
+    "slug": "your-app-slug",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "backgroundColor": "#1C2833"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.anonymous.yourappslug",
+      "suppressStatusBarWarning": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#1C2833"
+      },
+      "package": "com.anonymous.yourappslug"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}

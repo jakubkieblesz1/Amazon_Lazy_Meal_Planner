@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "plugins": [
+      [
+        "expo-camera",
+        {
+          "cameraPermission": "Allow LazyCook to access your camera."
+        }
+      ]
+    ]
+  }
+} 
